@@ -1,0 +1,7 @@
+Project start = 29/03/23
+
+RAGE
+
+29/03/23
+Cloned CAGE into RAGE folder
+Downloaded GEO data
